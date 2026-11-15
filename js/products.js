@@ -10,8 +10,8 @@
    ===================================================================== */
 window.MK_CONFIG = {
   brand: "MK Men's",
-  whatsapp: '916362405907',      // WhatsApp number with country code, no "+"
-  phoneDisplay: '+91 63624 05907',
+  whatsapp: '918088297074',      // WhatsApp number with country code, no "+"
+  phoneDisplay: '+91 80882 97074',
   currency: '₹'
 };
 
